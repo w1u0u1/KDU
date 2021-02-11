@@ -2,6 +2,9 @@
 Kernel Driver Utility  
 ![Screenshot](Capture.PNG)
 
+# basic
+vs2019 + cpp
+
 # change log
 Changed to console project  
 Removed resource
